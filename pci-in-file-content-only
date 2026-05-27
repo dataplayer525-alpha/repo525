@@ -1,0 +1,25 @@
+Confidential Financial Data 
+1. Transaction ID: cabab881-bdd5-4992-8d05-f85ce5294c63
+Transaction Date: 07/22/2025
+Value Date: 07/22/2025
+Posting Date: 07/26/2025
+Vendor: Bazin Bonnin S.A.R.L. (ID: VND-29738)
+Invoice: INV-281641 | PO: PO-6616
+Amount: 27,941.53 AOA
+Payment Method: ACH
+Bank: Citigroup (Branch Code: 527)
+Account Number: LXJF05092272963090
+Beneficiary: Lisa Lloyd
+Risk Score: Critical
+2. Transaction ID: c83bba09-087f-4d28-ab87-7ac9cd41b3af
+Transaction Date: 11/06/2025
+Value Date: 11/07/2025
+Posting Date: 11/08/2025
+Vendor: Mason and Sons (ID: VND-87040)
+Invoice: INV-348179 | PO: PO-6671
+Amount: 46,109.62 COP
+Payment Method: SEPA
+Bank: BNP Paribas (Branch Code: 428)
+Account Number: JLLJ92418494030990
+Beneficiary: Océane-Pauline Launay
+Risk Score: Low
